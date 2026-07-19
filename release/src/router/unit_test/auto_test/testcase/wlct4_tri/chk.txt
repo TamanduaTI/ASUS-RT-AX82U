@@ -1,0 +1,6 @@
+COMPARE=DEVICE_0,nvram get amas_wlc2_state,=,,2
+SWITCH=DEVICE_0
+CHECKFILE=/jffs/amas_wlcconnect.log
+Receive event: START_CONNECTING
+BandIndex\(1\) Unit\(1\) Not USE. Disconnect it
+The Request Done.
